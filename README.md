@@ -70,3 +70,7 @@ Nunca faca commit da `OPENAI_API_KEY` ou outras credenciais. Use `.env` (ignorad
 ## Licenca
 
 MIT
+
+## Sobre a publicação
+
+Este projeto foi construído e publicado como referência de arquitetura para a comunidade, refletindo padrões e decisões técnicas aplicados na prática profissional (sem reproduzir código ou dados de projetos proprietários).
